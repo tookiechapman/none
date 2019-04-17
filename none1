@@ -1,0 +1,3 @@
+var age = type1
+var String = type2
+print(age + String)
